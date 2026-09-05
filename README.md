@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/animations/robot-coder.gif" width="310" alt="Robô programando" />
+<img src="./assets/animations/pro-coder.gif" width="280" alt="Personagem programador com fones" />
 
 # trickhook
 
@@ -29,13 +29,5 @@
 <br><br>
 
 `Python` · `JavaScript` · `TypeScript` · `Go` · `Rust` · `Java` · `C` · `C++` · `C#` · `Kotlin` · `PHP` · `Ruby` · `Bash`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/animations/pro-coder.gif" width="280" alt="Personagem programador com fones" />
 
 </div>
