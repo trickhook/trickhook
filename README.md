@@ -1,23 +1,14 @@
-<!-- Perfil GitHub de trickhook -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=180&section=header&text=trickhook&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Curiosity%20%7C%20Creation&descAlignY=55" alt="Cabeçalho animado de trickhook" />
+<img src="./assets/animations/robot-coder.gif" width="300" alt="Robô programando" />
+<img src="./assets/animations/pro-coder.gif" width="240" alt="Personagem programador com fones" />
 
-# Olá, eu sou o trick! / Hi, I'm trick!
+# trickhook
 
-<a href="https://github.com/trickhook">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=760&lines=Louco+por+programa%C3%A7%C3%A3o+e+por+transformar+ideias+em+c%C3%B3digo.;Crazy+about+programming+and+turning+ideas+into+code.;Python+%7C+JavaScript+%7C+Go+%7C+Rust+%7C+Java+%7C+C%2B%2B+%7C+C%23;Sempre+aprendendo.+Sempre+criando.+%2F+Always+learning.+Always+building." alt="Frases animadas sobre programação em português e inglês" />
-</a>
+### Apaixonado por programação, movido por curiosidade.
+### Crazy about programming, driven by curiosity.
 
-### Visitas ao perfil / Profile visits
-
-<img src="https://count.getloli.com/get/@trickhook?theme=rule34" alt="Contador animado de visitas ao perfil de trickhook" />
-
-[![Profile views](https://komarev.com/ghpvc/?username=trickhook&label=VISITAS%20%2F%20VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/trickhook)
-[![GitHub followers](https://img.shields.io/github/followers/trickhook?label=SEGUIDORES%20%2F%20FOLLOWERS&style=for-the-badge&logo=github&color=181717)](https://github.com/trickhook?tab=followers)
-
-[Português](#português) • [English](#english) • [Tecnologias / Technologies](#tecnologias--technologies) • [Estatísticas / Stats](#estatísticas--stats)
+**[Português](#português) · [English](#english) · [Linguagens--languages](#linguagens--languages)**
 
 </div>
 
@@ -25,88 +16,82 @@
 
 ## Português
 
-Sou uma pessoa **completamente apaixonada por programação**. Gosto de explorar linguagens, ferramentas e paradigmas diferentes — do baixo nível ao desenvolvimento web, da automação a sistemas de alto desempenho.
+Eu sou **trick**, um entusiasta de tecnologia que gosta de viver entre ideias, terminais e linhas de código. Programar, para mim, não é apenas escrever instruções: é investigar, experimentar, quebrar, entender e reconstruir melhor.
 
-Para mim, linguagem é ferramenta: se o desafio pede **Python, JavaScript, Go, Rust, Java, C++, C#** ou qualquer outra tecnologia, a diversão está em entender o problema e construir uma solução bem feita.
+Sou louco por programação e gosto de explorar praticamente qualquer linguagem que possa transformar um problema em uma solução. Posso estar criando uma automação em **Python**, uma aplicação em **JavaScript ou TypeScript**, um serviço rápido em **Go**, estudando segurança e desempenho com **Rust, C ou C++**, ou construindo projetos com **Java e C#**.
 
-- Sempre programando, testando ou aprendendo algo novo.
-- Curioso sobre software, sistemas, automação e segurança.
-- Gosto de transformar problemas difíceis em código simples e funcional.
-- Aberto a projetos interessantes, experimentos e colaboração open source.
+### O que me move
 
-> Não sou fiel a uma única linguagem — sou fiel à vontade de criar.
+- Aprender novas linguagens, ferramentas e formas de pensar.
+- Entender como o software funciona por dentro.
+- Automatizar tarefas repetitivas e simplificar problemas difíceis.
+- Explorar desenvolvimento web, sistemas, segurança e desempenho.
+- Criar projetos úteis, experimentar ideias e colaborar com open source.
+
+> Não escolho uma linguagem favorita. Escolho a ferramenta certa, aprendo o necessário e faço acontecer.
+
+---
 
 ## English
 
-I'm **completely crazy about programming**. I enjoy exploring different languages, tools, and paradigms — from low-level code to web development, from automation to high-performance systems.
+I'm **trick**, a technology enthusiast who enjoys living among ideas, terminals, and lines of code. To me, programming is not just writing instructions: it is about investigating, experimenting, breaking things, understanding them, and rebuilding them better.
 
-To me, a programming language is a tool: whether the challenge calls for **Python, JavaScript, Go, Rust, Java, C++, C#**, or something else, the fun is in understanding the problem and building a solid solution.
+I'm crazy about programming and enjoy exploring almost any language that can turn a problem into a solution. I might be creating automation with **Python**, building an application with **JavaScript or TypeScript**, writing a fast service in **Go**, exploring security and performance with **Rust, C, or C++**, or developing projects with **Java and C#**.
 
-- Always coding, testing, or learning something new.
-- Curious about software, systems, automation, and security.
-- I enjoy turning difficult problems into simple, working code.
-- Open to interesting projects, experiments, and open-source collaboration.
+### What drives me
 
-> I'm not loyal to a single language — I'm loyal to the drive to create.
+- Learning new languages, tools, and ways of thinking.
+- Understanding how software works under the hood.
+- Automating repetitive tasks and simplifying difficult problems.
+- Exploring web development, systems, security, and performance.
+- Building useful projects, experimenting with ideas, and collaborating in open source.
+
+> I don't choose one favorite language. I choose the right tool, learn what is needed, and make it happen.
 
 ---
 
-## Tecnologias / Technologies
+## Linguagens / Languages
 
 <div align="center">
 
-### Linguagens principais / Main languages
+<img src="./assets/languages/python.png" width="58" height="58" alt="Python" title="Python" />
+<img src="./assets/languages/javascript.png" width="58" height="58" alt="JavaScript" title="JavaScript" />
+<img src="./assets/languages/typescript.png" width="58" height="58" alt="TypeScript" title="TypeScript" />
+<img src="./assets/languages/go.png" width="58" height="58" alt="Go" title="Go" />
+<img src="./assets/languages/rust.png" width="58" height="58" alt="Rust" title="Rust" />
+<img src="./assets/languages/java.png" width="58" height="58" alt="Java" title="Java" />
+<img src="./assets/languages/c.png" width="58" height="58" alt="C" title="C" />
+<img src="./assets/languages/cplusplus.png" width="58" height="58" alt="C++" title="C++" />
+<img src="./assets/languages/csharp.png" width="58" height="58" alt="C#" title="C#" />
+<img src="./assets/languages/kotlin.png" width="58" height="58" alt="Kotlin" title="Kotlin" />
+<img src="./assets/languages/php.png" width="58" height="58" alt="PHP" title="PHP" />
+<img src="./assets/languages/ruby.png" width="58" height="58" alt="Ruby" title="Ruby" />
+<img src="./assets/languages/bash.png" width="58" height="58" alt="Bash" title="Bash" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<br><br>
 
-### Também explorando / Also exploring
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Ferramentas / Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+`Python` · `JavaScript` · `TypeScript` · `Go` · `Rust` · `Java` · `C` · `C++` · `C#` · `Kotlin` · `PHP` · `Ruby` · `Bash`
 
 </div>
 
 ---
 
-## Estatísticas / Stats
+## Como eu penso / How I think
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=trickhook&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de trickhook" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickhook&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas por trickhook" />
-
-</div>
+| Português | English |
+|---|---|
+| **Curiosidade primeiro:** sempre há algo novo para aprender. | **Curiosity first:** there is always something new to learn. |
+| **Código com propósito:** tecnologia deve resolver problemas reais. | **Code with purpose:** technology should solve real problems. |
+| **Sem medo de experimentar:** errar também faz parte da construção. | **Never afraid to experiment:** mistakes are part of building. |
+| **Evolução constante:** cada projeto é uma oportunidade de melhorar. | **Constant evolution:** every project is an opportunity to improve. |
 
 ---
 
 <div align="center">
 
-### Vamos criar algo incrível? / Shall we build something awesome?
+### Transformando café em código e curiosidade em projetos.
+### Turning coffee into code and curiosity into projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-@trickhook-181717?style=for-the-badge&logo=github)](https://github.com/trickhook)
-
-**Código, curiosidade e café. Sempre.**  
-**Code, curiosity, and coffee. Always.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=110&section=footer" alt="Rodapé animado" />
+**Sempre aprendendo. Sempre construindo. / Always learning. Always building.**
 
 </div>
