@@ -2,12 +2,6 @@
 
 <img src="./assets/animations/pro-coder.gif" width="280" alt="Personagem programador com fones" />
 
-</div>
-
----
-
-## Linguagens / Languages
-
 <div align="center">
 
 <img src="./assets/languages/python.png" width="58" height="58" alt="Python" title="Python" />
