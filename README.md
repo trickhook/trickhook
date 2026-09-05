@@ -2,8 +2,6 @@
 
 <img src="./assets/animations/pro-coder.gif" width="280" alt="Personagem programador com fones" />
 
-# trickhook
-
 </div>
 
 ---
