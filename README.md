@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="./assets/animations/robot-coder.gif" width="300" alt="Robô programando" />
-<img src="./assets/animations/pro-coder.gif" width="240" alt="Personagem programador com fones" />
+<img src="./assets/animations/robot-coder.gif" width="310" alt="Robô programando" />
 
 # trickhook
 
 ### Apaixonado por programação, movido por curiosidade.
 ### Crazy about programming, driven by curiosity.
 
-**[Português](#português) · [English](#english) · [Linguagens--languages](#linguagens--languages)**
+**[Português](#português) · [English](#english) · [Linguagens / Languages](#linguagens--languages)**
 
 </div>
 
@@ -88,6 +87,8 @@ I'm crazy about programming and enjoy exploring almost any language that can tur
 ---
 
 <div align="center">
+
+<img src="./assets/animations/pro-coder.gif" width="280" alt="Personagem programador com fones" />
 
 ### Transformando café em código e curiosidade em projetos.
 ### Turning coffee into code and curiosity into projects.
