@@ -2,10 +2,17 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=180&section=header&text=trickhook&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Curiosity%20%7C%20Creation&descAlignY=55" alt="Cabeçalho animado de trickhook" />
+
 # Olá, eu sou o trick! / Hi, I'm trick!
 
-### Louco por programação e por transformar ideias em código.
-### Crazy about programming and turning ideas into code.
+<a href="https://github.com/trickhook">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=760&lines=Louco+por+programa%C3%A7%C3%A3o+e+por+transformar+ideias+em+c%C3%B3digo.;Crazy+about+programming+and+turning+ideas+into+code.;Python+%7C+JavaScript+%7C+Go+%7C+Rust+%7C+Java+%7C+C%2B%2B+%7C+C%23;Sempre+aprendendo.+Sempre+criando.+%2F+Always+learning.+Always+building." alt="Frases animadas sobre programação em português e inglês" />
+</a>
+
+### Visitas ao perfil / Profile visits
+
+<img src="https://count.getloli.com/get/@trickhook?theme=rule34" alt="Contador animado de visitas ao perfil de trickhook" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=trickhook&label=VISITAS%20%2F%20VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/trickhook)
 [![GitHub followers](https://img.shields.io/github/followers/trickhook?label=SEGUIDORES%20%2F%20FOLLOWERS&style=for-the-badge&logo=github&color=181717)](https://github.com/trickhook?tab=followers)
@@ -99,5 +106,7 @@ To me, a programming language is a tool: whether the challenge calls for **Pytho
 
 **Código, curiosidade e café. Sempre.**  
 **Code, curiosity, and coffee. Always.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=110&section=footer" alt="Rodapé animado" />
 
 </div>
