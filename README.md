@@ -1,9 +1,4 @@
 <div align="center">
-
-<img src="./assets/animations/pro-coder.gif" width="280" alt="Personagem programador com fones" />
-
-<div align="center">
-
 <img src="./assets/languages/python.png" width="58" height="58" alt="Python" title="Python" />
 <img src="./assets/languages/javascript.png" width="58" height="58" alt="JavaScript" title="JavaScript" />
 <img src="./assets/languages/typescript.png" width="58" height="58" alt="TypeScript" title="TypeScript" />
@@ -17,9 +12,8 @@
 <img src="./assets/languages/php.png" width="58" height="58" alt="PHP" title="PHP" />
 <img src="./assets/languages/ruby.png" width="58" height="58" alt="Ruby" title="Ruby" />
 <img src="./assets/languages/bash.png" width="58" height="58" alt="Bash" title="Bash" />
-
 <br><br>
-
+  
 `Python` · `JavaScript` · `TypeScript` · `Go` · `Rust` · `Java` · `C` · `C++` · `C#` · `Kotlin` · `PHP` · `Ruby` · `Bash`
 
 </div>
